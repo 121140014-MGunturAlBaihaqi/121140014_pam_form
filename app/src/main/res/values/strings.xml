@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NamaAplikasiAnda</string>
+    <string name="name_label">Nama: %1$s</string>
+    <string name="age_label">Usia: %1$s</string>
+    <string name="gender_label">Jenis Kelamin: %1$s</string>
+    <string name="subscribe_label">BPJS: %1$s</string>
+    <string name="submit_label">Submit: %1$s</string>
+</resources>
